@@ -1,4 +1,4 @@
-- 👋 Hola mi nombre es Jhon monsalve 
-- 👀 estoy interesado en aprender ciber seguridad 
+- Hola mi nombre es Jhon monsalve 
+- java, javascript, python, react native, mysql, postgresql.
 - ig @monsalve_jhon_11
 - email mjhon6811@gmail.com
